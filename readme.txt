@@ -1,0 +1,1 @@
+In this project iam going to create covid-19 daily report showing website with the help of a free api.
